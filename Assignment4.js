@@ -2,7 +2,7 @@
 const prompt = require('prompt-sync')();
 
 // Global Variables //
-
+//Xzaviere and Conner
 
 // Functions //
 function MathMax(){
